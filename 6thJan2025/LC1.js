@@ -27,5 +27,8 @@ class Solution {
   regarding == and === 
   Comparision and equality checks is a big topic in JS - we need to add more 
   notes and understand what happens behind the scenes later
-  Also JS does not throw errors, the reason being it has 
+  Also JS does not throw errors, the reason being it has 'undefined' as a data type
+  making it much more confusing to track and debug.
+  But one of the best remedy to the problem is printing at the point of failure 
+  to understand what is going on.
 */
